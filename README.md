@@ -19,7 +19,8 @@ This project performs **binary sentiment analysis** on hotel reviews sourced fro
 
 ## 📦 Dataset
 
-- **Source**: TripAdvisor hotel reviews  
+- **Source**: TripAdvisor hotel reviews
+- In the repository there is a sample with some elements of the original dataset, impossible to load it due to the large size and number of elements
 - The dataset includes user-generated reviews labeled by sentiment (positive/negative)
 
 ## 🧪 Methodology
